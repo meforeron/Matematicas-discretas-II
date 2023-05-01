@@ -17,5 +17,5 @@ El repositorio contiene las tareas, distribuidas asi:
 
 🔴 En la carpeta 'Tareas-ClasesYoutube':
 - Ejercicios: Algoritmo de Euclides, algoritmo de la división, 
-identidad de Bezout,aritmetica modular y residuos minimos. 
+identidad de Bezout, aritmetica modular y residuos minimos. 
 
