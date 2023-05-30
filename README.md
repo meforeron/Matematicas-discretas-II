@@ -21,6 +21,9 @@ El repositorio contiene las tareas, distribuidas asi:
 - Ejercicios: Algoritmo de Euclides, algoritmo de la división, 
 identidad de Bezout, aritmetica modular y residuos minimos. 
 
+🔴 En la carpeta 'Teoria-de-Numeros':
+- 19 abril: Cuando un entero es divisible por 4
+
 🔴 En la carpeta 'Talleres':
 - 3 mayo: Taller teoria de numeros
 - 17 mayo: Taller ecuaciones en diferencias
