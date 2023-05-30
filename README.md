@@ -14,7 +14,7 @@ El repositorio contiene las tareas, distribuidas asi:
 - 15 feb: Jupyter 1: Identificación de grupos a partir de tablas.
 - 13 mar: Jupyter 2: comprobar el tiempo por el método tradicional de comprobar 1 a 1, vs. Totient de Euler.
 - 13 mar: Jupyter 3: expresar un número como una suma de cuadrados (pero con la menor cantidad de cuadrados).
-- 24 abril: Inversa multiplicatov en Zn
+- 24 abril: Inversa multiplicativa en Zn
 - 26 abril: Algoritmo para resolver congruencias
 
 🔴 En la carpeta 'Tareas-ClasesYoutube':
